@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=5765d5cf89f5cf1b40000016
+org.jboss.tools.openshift.ApplicationName=unisys
+org.jboss.tools.openshift.Connection=https\://bellspecial%40gmail.com@openshift.redhat.com
+org.jboss.tools.openshift.DeployFolder=webapps
+org.jboss.tools.openshift.Domain=javaprog2mj
+org.jboss.tools.openshift.RemoteName=origin
